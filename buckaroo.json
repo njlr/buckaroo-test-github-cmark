@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-github-cmark",
+  "dependencies": {
+    "github/cmark": "0.27.1",
+    "google/gtest": "1.8.0"
+  }
+}
